@@ -1,0 +1,51 @@
+ID,Genre,Title,Author,Purchase Price,Purchase Date
+1,Science & Tech,Programming for Beginners,F Batmaz,30,01/04/2010
+2,Business Life,Limitless,Jim Kwik,17,07/04/2020
+3,Neurology,The 5am Club,Robin Sharma,8,06/12/2018
+4,Business Life,Limitless,Jim Kwik,17,07/04/2020
+5,Business & Economics,Great By Choice,Jim Collins,25,11/10/2011
+6,Neurology,The 5am Club,Robin Sharma,8,06/12/2018
+7,Parenting,Rich Dad Poor Dad,Robert Kiyosaki,8,25/05/2017
+8,Science & Tech,Programming for Beginners,F Batmaz,30,01/04/2010
+9,Business Life,Limitless,Jim Kwik,17,07/04/2020
+10,Business & Economics,Great By Choice,Jim Collins,25,11/10/2011
+11,Science & Tech,Programming for Beginners,F Batmaz,30,01/04/2010
+12,Neurology,The 5am Club,Robin Sharma,8,06/12/2018
+13,Neurology,The 5am Club,Robin Sharma,8,06/12/2018
+14,Parenting,Rich Dad Poor Dad,Robert Kiyosaki,8,25/05/2017
+15,Parenting,Rich Dad Poor Dad,Robert Kiyosaki,8,25/05/2017
+16,Science & Tech,Programming for Beginners,F Batmaz,30,01/04/2010
+17,Parenting,Rich Dad Poor Dad,Robert Kiyosaki,8,25/05/2017
+18,Business Life,Limitless,Jim Kwik,17,07/04/2020
+19,Business & Economics,Great By Choice,Jim Collins,25,11/10/2011
+20,Business & Economics,Great By Choice,Jim Collins,25,11/10/2011
+21,Science & Tech,Programming for Beginners,F Batmaz,30,01/04/2010
+22,Science & Tech,Programming for Beginners,F Batmaz,30,01/04/2010
+23,Neurology,The 5am Club,Robin Sharma,8,06/12/2018
+24,Business Life,Limitless,Jim Kwik,17,07/04/2020
+25,Business & Economics,Great By Choice,Jim Collins,25,11/10/2011
+26,Parenting,Rich Dad Poor Dad,Robert Kiyosaki,8,25/05/2017
+27,Science & Tech,Programming for Beginners,F Batmaz,30,01/04/2010
+28,Business & Economics,Great By Choice,Jim Collins,25,11/10/2011
+29,Parenting,Rich Dad Poor Dad,Robert Kiyosaki,8,25/05/2017
+30,Parenting,Rich Dad Poor Dad,Robert Kiyosaki,8,25/05/2017
+31,Science & Tech,Programming for Beginners,F Batmaz,30,01/04/2010
+32,Business Life,Limitless,Jim Kwik,17,07/04/2020
+33,Science & Tech,Programming for Beginners,F Batmaz,30,01/04/2010
+34,Neurology,The 5am Club,Robin Sharma,8,06/12/2018
+35,Parenting,Rich Dad Poor Dad,Robert Kiyosaki,8,25/05/2017
+36,Science & Tech,Programming for Beginners,F Batmaz,30,01/04/2010
+37,Business Life,Limitless,Jim Kwik,17,07/04/2020
+38,Science & Tech,Programming for Beginners,F Batmaz,30,01/04/2010
+39,Business & Economics,Great By Choice,Jim Collins,25,11/10/2011
+40,Parenting,Rich Dad Poor Dad,Robert Kiyosaki,8,25/05/2017
+41,Business Life,Limitless,Jim Kwik,17,07/04/2020
+42,Parenting,Rich Dad Poor Dad,Robert Kiyosaki,8,25/05/2017
+43,Business & Economics,Great By Choice,Jim Collins,25,11/10/2011
+44,Business Life,Limitless,Jim Kwik,17,07/04/2020
+45,Neurology,The 5am Club,Robin Sharma,8,06/12/2018
+46,Business Life,Limitless,Jim Kwik,17,07/04/2020
+47,Science & Tech,Programming for Beginners,F Batmaz,30,01/04/2010
+48,Parenting,Rich Dad Poor Dad,Robert Kiyosaki,8,25/05/2017
+49,Business & Economics,Great By Choice,Jim Collins,25,11/10/2011
+50,Neurology,The 5am Club,Robin Sharma,8,06/12/2018

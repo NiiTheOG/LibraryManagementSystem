@@ -1,0 +1,738 @@
+,Title,Author,Price,Genre
+0,10-Day Green Smoothie Cleanse,JJ Smith,8,Non Fiction
+1,11/22/63: A Novel,Stephen King,22,Fiction
+2,12 Rules for Life: An Antidote to Chaos,Jordan B. Peterson,15,Non Fiction
+3,1984 (Signet Classics),George Orwell,6,Fiction
+4,5 000 Awesome Facts (About Everything!) (National Geographic Kids),National Geographic Kids,12,Non Fiction
+5,A Dance with Dragons (A Song of Ice and Fire),George R. R. Martin,11,Fiction
+6,A Game of Thrones / A Clash of Kings / A Storm of Swords / A Feast of Crows / A Dance with Dragons,George R. R. Martin,30,Fiction
+7,A Gentleman in Moscow: A Novel,Amor Towles,15,Fiction
+8,A Higher Loyalty: Truth  Lies  and Leadership,James Comey,3,Non Fiction
+9,A Man Called Ove: A Novel,Fredrik Backman,8,Fiction
+10,A Man Called Ove: A Novel,Fredrik Backman,8,Fiction
+11,A Patriot's History of the United States: From Columbus's Great Discovery to the War on Terror,Larry Schweikart,2,Non Fiction
+12,A Stolen Life: A Memoir,Jaycee Dugard,32,Non Fiction
+13,A Wrinkle in Time (Time Quintet),Madeleine L'Engle,5,Fiction
+14,Act Like a Lady  Think Like a Man: What Men Really Think About Love  Relationships  Intimacy  and Commitment,Steve Harvey,17,Non Fiction
+15,Adult Coloring Book Designs: Stress Relief Coloring Book: Garden Designs  Mandalas  Animals  and Paisley Patterns,Adult Coloring Book Designs,4,Non Fiction
+16,Adult Coloring Book: Stress Relieving Animal Designs,Blue Star Coloring,6,Non Fiction
+17,Adult Coloring Book: Stress Relieving Patterns,Blue Star Coloring,6,Non Fiction
+18,Adult Coloring Books: A Coloring Book for Adults Featuring Mandalas and Henna Inspired Flowers  Animals  and Paisley…,Coloring Books for Adults,8,Non Fiction
+19,Alexander Hamilton,Ron Chernow,13,Non Fiction
+20,All the Light We Cannot See,Anthony Doerr,14,Fiction
+21,All the Light We Cannot See,Anthony Doerr,14,Fiction
+22,Allegiant,Veronica Roth,13,Fiction
+23,American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History,Chris Kyle,9,Non Fiction
+24,And the Mountains Echoed,Khaled Hosseini,13,Fiction
+25,Arguing with Idiots: How to Stop Small Minds and Big Government,Glenn Beck,5,Non Fiction
+26,Astrophysics for People in a Hurry,Neil deGrasse Tyson,9,Non Fiction
+27,Autobiography of Mark Twain  Vol. 1,Mark Twain,14,Non Fiction
+28,Baby Touch and Feel: Animals,DK,5,Non Fiction
+29,Balance (Angie's Extreme Stress Menders),Angie Grace,11,Non Fiction
+30,Barefoot Contessa Foolproof: Recipes You Can Trust: A Cookbook,Ina Garten,24,Non Fiction
+31,Barefoot Contessa  How Easy Is That?: Fabulous Recipes & Easy Tips,Ina Garten,21,Non Fiction
+32,Becoming,Michelle Obama,11,Non Fiction
+33,Becoming,Michelle Obama,11,Non Fiction
+34,Being Mortal: Medicine and What Matters in the End,Atul Gawande,15,Non Fiction
+35,Between the World and Me,Ta-Nehisi Coates,13,Non Fiction
+36,Between the World and Me,Ta-Nehisi Coates,13,Non Fiction
+37,Born to Run,Bruce Springsteen,18,Non Fiction
+38,Breaking Dawn (The Twilight Saga  Book 4),Stephenie Meyer,13,Fiction
+39,Broke: The Plan to Restore Our Trust  Truth and Treasure,Glenn Beck,8,Non Fiction
+40,Brown Bear  Brown Bear  What Do You See?,Bill Martin Jr.,5,Fiction
+41,Brown Bear  Brown Bear  What Do You See?,Bill Martin Jr.,5,Fiction
+42,Cabin Fever (Diary of a Wimpy Kid  Book 6),Jeff Kinney,0,Fiction
+43,Calm the F*ck Down: An Irreverent Adult Coloring Book (Irreverent Book Series),Sasha O'Hara,4,Non Fiction
+44,Can't Hurt Me: Master Your Mind and Defy the Odds,David Goggins,18,Non Fiction
+45,Capital in the Twenty First Century,Thomas Piketty,28,Non Fiction
+46,Catching Fire (The Hunger Games),Suzanne Collins,11,Fiction
+47,Catching Fire (The Hunger Games),Suzanne Collins,11,Fiction
+48,Catching Fire (The Hunger Games),Suzanne Collins,11,Fiction
+49,Cravings: Recipes for All the Food You Want to Eat: A Cookbook,Chrissy Teigen,16,Non Fiction
+50,Crazy Love: Overwhelmed by a Relentless God,Francis Chan,14,Non Fiction
+51,Crazy Love: Overwhelmed by a Relentless God,Francis Chan,14,Non Fiction
+52,Crazy Love: Overwhelmed by a Relentless God,Francis Chan,14,Non Fiction
+53,Crazy Rich Asians (Crazy Rich Asians Trilogy),Kevin Kwan,8,Fiction
+54,Creative Haven Creative Cats Coloring Book (Adult Coloring),Marjorie Sarnat,4,Non Fiction
+55,Creative Haven Owls Coloring Book (Adult Coloring),Marjorie Sarnat,5,Non Fiction
+56,Cutting for Stone,Abraham Verghese,11,Fiction
+57,Cutting for Stone,Abraham Verghese,11,Fiction
+58,Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live  Love  Parent  and Lead,Brené Brown,10,Non Fiction
+59,David and Goliath: Underdogs  Misfits  and the Art of Battling Giants,Malcolm Gladwell,13,Non Fiction
+60,Dead And Gone: A Sookie Stackhouse Novel (Sookie Stackhouse/True Blood),Charlaine Harris,4,Fiction
+61,Dead in the Family (Sookie Stackhouse/True Blood  Book 10),Charlaine Harris,8,Fiction
+62,Dead Reckoning (Sookie Stackhouse/True Blood  Book 11),Charlaine Harris,4,Fiction
+63,Dear Zoo: A Lift-the-Flap Book,Rod Campbell,5,Fiction
+64,Dear Zoo: A Lift-the-Flap Book,Rod Campbell,5,Fiction
+65,Dear Zoo: A Lift-the-Flap Book,Rod Campbell,5,Fiction
+66,Dear Zoo: A Lift-the-Flap Book,Rod Campbell,5,Fiction
+67,Decision Points,George W. Bush,17,Non Fiction
+68,Delivering Happiness: A Path to Profits  Passion  and Purpose,Tony Hsieh,15,Non Fiction
+69,Diagnostic and Statistical Manual of Mental Disorders  5th Edition: DSM-5,American Psychiatric Association,105,Non Fiction
+70,Diagnostic and Statistical Manual of Mental Disorders  5th Edition: DSM-5,American Psychiatric Association,105,Non Fiction
+71,Diary of a Wimpy Kid: Hard Luck  Book 8,Jeff Kinney,0,Fiction
+72,Diary of a Wimpy Kid: The Last Straw (Book 3),Jeff Kinney,15,Fiction
+73,Diary of a Wimpy Kid: The Long Haul,Jeff Kinney,22,Fiction
+74,Difficult Riddles For Smart Kids: 300 Difficult Riddles And Brain Teasers Families Will Love (Books for Smart Kids),M Prefontaine,5,Non Fiction
+75,Divergent,Veronica Roth,15,Fiction
+76,Divergent,Veronica Roth,15,Fiction
+77,Divergent / Insurgent,Veronica Roth,6,Fiction
+78,Divine Soul Mind Body Healing and Transmission System: The Divine Way to Heal You  Humanity  Mother Earth  and All…,Zhi Gang Sha,6,Non Fiction
+79,Doctor Sleep: A Novel,Stephen King,13,Fiction
+80,Dog Days (Diary of a Wimpy Kid  Book 4) (Volume 4),Jeff Kinney,12,Fiction
+81,Dog Man and Cat Kid: From the Creator of Captain Underpants (Dog Man #4),Dav Pilkey,6,Fiction
+82,Dog Man: A Tale of Two Kitties: From the Creator of Captain Underpants (Dog Man #3),Dav Pilkey,8,Fiction
+83,Dog Man: Brawl of the Wild: From the Creator of Captain Underpants (Dog Man #6),Dav Pilkey,4,Fiction
+84,Dog Man: Brawl of the Wild: From the Creator of Captain Underpants (Dog Man #6),Dav Pilkey,4,Fiction
+85,Dog Man: Fetch-22: From the Creator of Captain Underpants (Dog Man #8),Dav Pilkey,8,Fiction
+86,Dog Man: For Whom the Ball Rolls: From the Creator of Captain Underpants (Dog Man #7),Dav Pilkey,8,Fiction
+87,Dog Man: Lord of the Fleas: From the Creator of Captain Underpants (Dog Man #5),Dav Pilkey,6,Fiction
+88,Double Down (Diary of a Wimpy Kid #11),Jeff Kinney,20,Fiction
+89,Dover Creative Haven Art Nouveau Animal Designs Coloring Book (Creative Haven Coloring Books),Marty Noble,5,Non Fiction
+90,Drive: The Surprising Truth About What Motivates Us,Daniel H. Pink,16,Non Fiction
+91,Eat This Not That! Supermarket Survival Guide: The No-Diet Weight Loss Solution,David Zinczenko,1,Non Fiction
+92,Eat This  Not That! Thousands of Simple Food Swaps that Can Save You 10  20  30 Pounds--or More!,David Zinczenko,14,Non Fiction
+93,Eat to Live: The Amazing Nutrient-Rich Program for Fast and Sustained Weight Loss  Revised Edition,Joel Fuhrman MD,9,Non Fiction
+94,Eat to Live: The Amazing Nutrient-Rich Program for Fast and Sustained Weight Loss  Revised Edition,Joel Fuhrman MD,9,Non Fiction
+95,Eclipse (Twilight Sagas),Stephenie Meyer,7,Fiction
+96,Eclipse (Twilight),Stephenie Meyer,18,Fiction
+97,Educated: A Memoir,Tara Westover,15,Non Fiction
+98,Educated: A Memoir,Tara Westover,15,Non Fiction
+99,Enchanted Forest: An Inky Quest and Coloring book (Activity Books  Mindfulness and Meditation  Illustrated Floral Prints…,Johanna Basford,9,Non Fiction
+100,Fahrenheit 451,Ray Bradbury,8,Fiction
+101,Fahrenheit 451,Ray Bradbury,8,Fiction
+102,Fantastic Beasts and Where to Find Them: The Original Screenplay (Harry Potter),J.K. Rowling,15,Fiction
+103,Fear: Trump in the White House,Bob Woodward,2,Non Fiction
+104,Fifty Shades Darker,E L James,7,Fiction
+105,Fifty Shades Freed: Book Three of the Fifty Shades Trilogy (Fifty Shades of Grey Series) (English Edition),E L James,11,Fiction
+106,Fifty Shades of Grey: Book One of the Fifty Shades Trilogy (Fifty Shades of Grey Series),E L James,14,Fiction
+107,Fifty Shades of Grey: Book One of the Fifty Shades Trilogy (Fifty Shades of Grey Series),E L James,14,Fiction
+108,Fifty Shades Trilogy (Fifty Shades of Grey / Fifty Shades Darker / Fifty Shades Freed),E L James,32,Fiction
+109,Fire and Fury: Inside the Trump White House,Michael Wolff,6,Non Fiction
+110,First 100 Words,Roger Priddy,4,Non Fiction
+111,First 100 Words,Roger Priddy,4,Non Fiction
+112,First 100 Words,Roger Priddy,4,Non Fiction
+113,First 100 Words,Roger Priddy,4,Non Fiction
+114,First 100 Words,Roger Priddy,4,Non Fiction
+115,Food Rules: An Eater's Manual,Michael Pollan,9,Non Fiction
+116,Frozen (Little Golden Book),RH Disney,0,Fiction
+117,Game Change: Obama and the Clintons  McCain and Palin  and the Race of a Lifetime,John Heilemann,9,Non Fiction
+118,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,George R.R. Martin,5,Fiction
+119,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,George R.R. Martin,5,Fiction
+120,Game of Thrones Boxed Set: A Game of Thrones/A Clash of Kings/A Storm of Swords/A Feast for Crows,George R.R. Martin,5,Fiction
+121,George Washington's Sacred Fire,Peter A. Lillback,20,Non Fiction
+122,George Washington's Secret Six: The Spy Ring That Saved the American Revolution,Brian Kilmeade,16,Non Fiction
+123,Giraffes Can't Dance,Giles Andreae,4,Fiction
+124,Giraffes Can't Dance,Giles Andreae,4,Fiction
+125,Giraffes Can't Dance,Giles Andreae,4,Fiction
+126,Giraffes Can't Dance,Giles Andreae,4,Fiction
+127,Giraffes Can't Dance,Giles Andreae,4,Fiction
+128,Girl  Stop Apologizing: A Shame-Free Plan for Embracing and Achieving Your Goals,Rachel Hollis,12,Non Fiction
+129,Girl  Wash Your Face: Stop Believing the Lies About Who You Are So You Can Become Who You Were Meant to Be,Rachel Hollis,12,Non Fiction
+130,Girl  Wash Your Face: Stop Believing the Lies About Who You Are So You Can Become Who You Were Meant to Be,Rachel Hollis,12,Non Fiction
+131,Glenn Beck's Common Sense: The Case Against an Out-of-Control Government  Inspired by Thomas Paine,Glenn Beck,11,Non Fiction
+132,Go Set a Watchman: A Novel,Harper Lee,19,Fiction
+133,Go the F**k to Sleep,Adam Mansbach,9,Fiction
+134,Going Rogue: An American Life,Sarah Palin,6,Non Fiction
+135,Gone Girl,Gillian Flynn,10,Fiction
+136,Gone Girl,Gillian Flynn,10,Fiction
+137,Gone Girl,Gillian Flynn,9,Fiction
+138,Good Days Start With Gratitude: A 52 Week Guide To Cultivate An Attitude Of Gratitude: Gratitude Journal,Pretty Simple Press,6,Non Fiction
+139,Good to Great: Why Some Companies Make the Leap and Others Don't,Jim Collins,14,Non Fiction
+140,Good to Great: Why Some Companies Make the Leap and Others Don't,Jim Collins,14,Non Fiction
+141,Good to Great: Why Some Companies Make the Leap and Others Don't,Jim Collins,14,Non Fiction
+142,Good to Great: Why Some Companies Make the Leap and Others Don't,Jim Collins,14,Non Fiction
+143,Goodnight Moon,Margaret Wise Brown,5,Fiction
+144,Goodnight Moon,Margaret Wise Brown,5,Fiction
+145,Goodnight Moon,Margaret Wise Brown,5,Fiction
+146,Goodnight  Goodnight Construction Site (Hardcover Books for Toddlers  Preschool Books for Kids),Sherri Duskey Rinker,7,Fiction
+147,Goodnight  Goodnight Construction Site (Hardcover Books for Toddlers  Preschool Books for Kids),Sherri Duskey Rinker,7,Fiction
+148,Grain Brain: The Surprising Truth about Wheat  Carbs  and Sugar--Your Brain's Silent Killers,David Perlmutter MD,10,Non Fiction
+149,Grey: Fifty Shades of Grey as Told by Christian (Fifty Shades of Grey Series),E L James,14,Fiction
+150,Guts,Raina Telgemeier,7,Non Fiction
+151,Hamilton: The Revolution,Lin-Manuel Miranda,54,Non Fiction
+152,Happy  Happy  Happy: My Life and Legacy as the Duck Commander,Phil Robertson,11,Non Fiction
+153,Harry Potter and the Chamber of Secrets: The Illustrated Edition (Harry Potter  Book 2),J.K. Rowling,30,Fiction
+154,Harry Potter and the Cursed Child  Parts 1 & 2  Special Rehearsal Edition Script,J.K. Rowling,12,Fiction
+155,Harry Potter and the Goblet of Fire: The Illustrated Edition (Harry Potter  Book 4) (4),J. K. Rowling,18,Fiction
+156,Harry Potter and the Prisoner of Azkaban: The Illustrated Edition (Harry Potter  Book 3),J.K. Rowling,30,Fiction
+157,Harry Potter and the Sorcerer's Stone: The Illustrated Edition (Harry Potter  Book 1),J.K. Rowling,22,Fiction
+158,Harry Potter Coloring Book,Scholastic,9,Non Fiction
+159,Harry Potter Paperback Box Set (Books 1-7),J. K. Rowling,52,Fiction
+160,Have a Little Faith: A True Story,Mitch Albom,4,Non Fiction
+161,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,Todd Burpo,10,Non Fiction
+162,Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back,Todd Burpo,10,Non Fiction
+163,Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J. D. Vance,14,Non Fiction
+164,Hillbilly Elegy: A Memoir of a Family and Culture in Crisis,J. D. Vance,14,Non Fiction
+165,Homebody: A Guide to Creating Spaces You Never Want to Leave,Joanna Gaines,22,Non Fiction
+166,How to Win Friends & Influence People,Dale Carnegie,11,Non Fiction
+167,How to Win Friends & Influence People,Dale Carnegie,11,Non Fiction
+168,How to Win Friends & Influence People,Dale Carnegie,11,Non Fiction
+169,How to Win Friends & Influence People,Dale Carnegie,11,Non Fiction
+170,How to Win Friends & Influence People,Dale Carnegie,11,Non Fiction
+171,Howard Stern Comes Again,Howard Stern,16,Non Fiction
+172,Humans of New York,Brandon Stanton,15,Non Fiction
+173,Humans of New York,Brandon Stanton,15,Non Fiction
+174,Humans of New York : Stories,Brandon Stanton,17,Non Fiction
+175,Hyperbole and a Half: Unfortunate Situations  Flawed Coping Mechanisms  Mayhem  and Other Things That Happened,Allie Brosh,17,Non Fiction
+176,I Am Confident  Brave & Beautiful: A Coloring Book for Girls,Hopscotch Girls,7,Non Fiction
+177,I  Alex Cross,James Patterson,7,Fiction
+178,If Animals Kissed Good Night,Ann Whitford Paul,4,Fiction
+179,If Animals Kissed Good Night,Ann Whitford Paul,4,Fiction
+180,If I Stay,Gayle Forman,9,Fiction
+181,In the Garden of Beasts: Love  Terror  and an American Family in Hitler's Berlin,Eric Larson,21,Non Fiction
+182,Inferno,Dan Brown,14,Fiction
+183,Inheritance: Book IV (Inheritance Cycle),Christopher Paolini,20,Fiction
+184,Instant Pot Pressure Cooker Cookbook: 500 Everyday Recipes for Beginners and Advanced Users. Try Easy and Healthy…,Jennifer Smith,13,Non Fiction
+185,Instant Pot Pressure Cooker Cookbook: 500 Everyday Recipes for Beginners and Advanced Users. Try Easy and Healthy…,Jennifer Smith,13,Non Fiction
+186,It's Not Supposed to Be This Way: Finding Unexpected Strength When Disappointments Leave You Shattered,Lysa TerKeurst,12,Non Fiction
+187,Jesus Calling: Enjoying Peace in His Presence (with Scripture References),Sarah Young,8,Non Fiction
+188,Jesus Calling: Enjoying Peace in His Presence (with Scripture References),Sarah Young,8,Non Fiction
+189,Jesus Calling: Enjoying Peace in His Presence (with Scripture References),Sarah Young,8,Non Fiction
+190,Jesus Calling: Enjoying Peace in His Presence (with Scripture References),Sarah Young,8,Non Fiction
+191,Jesus Calling: Enjoying Peace in His Presence (with Scripture References),Sarah Young,8,Non Fiction
+192,Jesus Calling: Enjoying Peace in His Presence (with Scripture References),Sarah Young,8,Non Fiction
+193,JOURNEY TO THE ICE P,RH Disney,0,Fiction
+194,Joyland (Hard Case Crime),Stephen King,12,Fiction
+195,Killers of the Flower Moon: The Osage Murders and the Birth of the FBI,David Grann,17,Non Fiction
+196,Killing Jesus (Bill O'Reilly's Killing Series),Bill O'Reilly,12,Non Fiction
+197,Killing Kennedy: The End of Camelot,Bill O'Reilly,25,Non Fiction
+198,Killing Lincoln: The Shocking Assassination that Changed America Forever (Bill O'Reilly's Killing Series),Bill O'Reilly,10,Non Fiction
+199,Killing Lincoln: The Shocking Assassination that Changed America Forever (Bill O'Reilly's Killing Series),Bill O'Reilly,10,Non Fiction
+200,Killing Patton: The Strange Death of World War II's Most Audacious General (Bill O'Reilly's Killing Series),Bill O'Reilly,6,Non Fiction
+201,Killing Reagan: The Violent Assault That Changed a Presidency (Bill O'Reilly's Killing Series),Bill O'Reilly,5,Non Fiction
+202,Killing the Rising Sun: How America Vanquished World War II Japan (Bill O'Reilly's Killing Series),Bill O'Reilly,6,Non Fiction
+203,Kitchen Confidential Updated Edition: Adventures in the Culinary Underbelly (P.S.),Anthony Bourdain,8,Non Fiction
+204,Knock-Knock Jokes for Kids,Rob Elliott,4,Non Fiction
+205,Knock-Knock Jokes for Kids,Rob Elliott,4,Non Fiction
+206,Knock-Knock Jokes for Kids,Rob Elliott,4,Non Fiction
+207,Last Week Tonight with John Oliver Presents A Day in the Life of Marlon Bundo (Better Bundo Book  LGBT Childrens Book),Jill Twiss,13,Fiction
+208,Laugh-Out-Loud Jokes for Kids,Rob Elliott,4,Non Fiction
+209,Laugh-Out-Loud Jokes for Kids,Rob Elliott,4,Non Fiction
+210,Laugh-Out-Loud Jokes for Kids,Rob Elliott,4,Non Fiction
+211,Laugh-Out-Loud Jokes for Kids,Rob Elliott,4,Non Fiction
+212,Laugh-Out-Loud Jokes for Kids,Rob Elliott,4,Non Fiction
+213,Lean In: Women  Work  and the Will to Lead,Sheryl Sandberg,13,Non Fiction
+214,Leonardo da Vinci,Walter Isaacson,21,Non Fiction
+215,Lettering and Modern Calligraphy: A Beginner's Guide: Learn Hand Lettering and Brush Lettering,Paper Peony Press,6,Non Fiction
+216,Liberty and Tyranny: A Conservative Manifesto,Mark R. Levin,15,Non Fiction
+217,Life,Keith Richards,18,Non Fiction
+218,Little Bee: A Novel,Chris Cleave,10,Fiction
+219,Little Blue Truck,Alice Schertle,0,Fiction
+220,Little Fires Everywhere,Celeste Ng,12,Fiction
+221,Looking for Alaska,John Green,7,Fiction
+222,Love Wins: A Book About Heaven  Hell  and the Fate of Every Person Who Ever Lived,Rob Bell,13,Non Fiction
+223,Love You Forever,Robert Munsch,5,Fiction
+224,Love You Forever,Robert Munsch,5,Fiction
+225,Magnolia Table: A Collection of Recipes for Gathering,Joanna Gaines,16,Non Fiction
+226,Make It Ahead: A Barefoot Contessa Cookbook,Ina Garten,20,Non Fiction
+227,Make Your Bed: Little Things That Can Change Your Life...And Maybe the World,Admiral William H. McRaven,11,Non Fiction
+228,Mastering the Art of French Cooking  Vol. 2,Julia Child,27,Non Fiction
+229,Milk and Honey,Rupi Kaur,8,Non Fiction
+230,Milk and Honey,Rupi Kaur,8,Non Fiction
+231,Milk and Honey,Rupi Kaur,8,Non Fiction
+232,Milk and Vine: Inspirational Quotes From Classic Vines,Adam Gasiewski,6,Non Fiction
+233,Mindset: The New Psychology of Success,Carol S. Dweck,10,Non Fiction
+234,Mindset: The New Psychology of Success,Carol S. Dweck,10,Non Fiction
+235,Mindset: The New Psychology of Success,Carol S. Dweck,10,Non Fiction
+236,Mockingjay (The Hunger Games),Suzanne Collins,8,Fiction
+237,Mockingjay (The Hunger Games),Suzanne Collins,8,Fiction
+238,Mockingjay (The Hunger Games),Suzanne Collins,8,Fiction
+239,National Geographic Kids Why?: Over 1 111 Answers to Everything,Crispin Boyer,16,Non Fiction
+240,National Geographic Little Kids First Big Book of Why (National Geographic Little Kids First Big Books),Amy Shields,11,Non Fiction
+241,New Moon (The Twilight Saga),Stephenie Meyer,10,Fiction
+242,Night (Night),Elie Wiesel,9,Non Fiction
+243,No Easy Day: The Autobiography of a Navy Seal: The Firsthand Account of the Mission That Killed Osama Bin Laden,Mark Owen,14,Non Fiction
+244,Obama: An Intimate Portrait,Pete Souza,22,Non Fiction
+245,Oh  the Places You'll Go!,Dr. Seuss,8,Fiction
+246,Oh  the Places You'll Go!,Dr. Seuss,8,Fiction
+247,Oh  the Places You'll Go!,Dr. Seuss,8,Fiction
+248,Oh  the Places You'll Go!,Dr. Seuss,8,Fiction
+249,Oh  the Places You'll Go!,Dr. Seuss,8,Fiction
+250,Oh  the Places You'll Go!,Dr. Seuss,8,Fiction
+251,Oh  the Places You'll Go!,Dr. Seuss,8,Fiction
+252,Oh  the Places You'll Go!,Dr. Seuss,8,Fiction
+253,Old School (Diary of a Wimpy Kid #10),Jeff Kinney,7,Fiction
+254,Olive Kitteridge,Elizabeth Strout,12,Fiction
+255,One Thousand Gifts: A Dare to Live Fully Right Where You Are,Ann Voskamp,13,Non Fiction
+256,One Thousand Gifts: A Dare to Live Fully Right Where You Are,Ann Voskamp,13,Non Fiction
+257,Option B: Facing Adversity  Building Resilience  and Finding Joy,Sheryl Sandberg,9,Non Fiction
+258,Origin: A Novel (Robert Langdon),Dan Brown,13,Fiction
+259,Orphan Train,Christina Baker Kline,11,Fiction
+260,Outliers: The Story of Success,Malcolm Gladwell,20,Non Fiction
+261,Outliers: The Story of Success,Malcolm Gladwell,20,Non Fiction
+262,P is for Potty! (Sesame Street) (Lift-the-Flap),Naomi Kleinberg,5,Non Fiction
+263,P is for Potty! (Sesame Street) (Lift-the-Flap),Naomi Kleinberg,5,Non Fiction
+264,Percy Jackson and the Olympians Paperback Boxed Set (Books 1-3),Rick Riordan,2,Fiction
+265,Player's Handbook (Dungeons & Dragons),Wizards RPG Team,27,Fiction
+266,Player's Handbook (Dungeons & Dragons),Wizards RPG Team,27,Fiction
+267,Player's Handbook (Dungeons & Dragons),Wizards RPG Team,27,Fiction
+268,Pokémon Deluxe Essential Handbook: The Need-to-Know Stats and Facts on Over 700 Pokémon,Scholastic,9,Fiction
+269,Proof of Heaven: A Neurosurgeon's Journey into the Afterlife,Eben Alexander,10,Non Fiction
+270,Proof of Heaven: A Neurosurgeon's Journey into the Afterlife,Eben Alexander,10,Non Fiction
+271,Publication Manual of the American Psychological Association  6th Edition,American Psychological Association,46,Non Fiction
+272,Publication Manual of the American Psychological Association  6th Edition,American Psychological Association,46,Non Fiction
+273,Publication Manual of the American Psychological Association  6th Edition,American Psychological Association,46,Non Fiction
+274,Publication Manual of the American Psychological Association  6th Edition,American Psychological Association,46,Non Fiction
+275,Publication Manual of the American Psychological Association  6th Edition,American Psychological Association,46,Non Fiction
+276,Publication Manual of the American Psychological Association  6th Edition,American Psychological Association,46,Non Fiction
+277,Publication Manual of the American Psychological Association  6th Edition,American Psychological Association,46,Non Fiction
+278,Publication Manual of the American Psychological Association  6th Edition,American Psychological Association,46,Non Fiction
+279,Publication Manual of the American Psychological Association  6th Edition,American Psychological Association,46,Non Fiction
+280,Publication Manual of the American Psychological Association  6th Edition,American Psychological Association,46,Non Fiction
+281,Puppy Birthday to You! (Paw Patrol) (Little Golden Book),Golden Books,4,Fiction
+282,Quiet: The Power of Introverts in a World That Can't Stop Talking,Susan Cain,20,Non Fiction
+283,Quiet: The Power of Introverts in a World That Can't Stop Talking,Susan Cain,7,Non Fiction
+284,Radical: Taking Back Your Faith from the American Dream,David Platt,9,Non Fiction
+285,Radical: Taking Back Your Faith from the American Dream,David Platt,9,Non Fiction
+286,Ready Player One: A Novel,Ernest Cline,12,Fiction
+287,Ready Player One: A Novel,Ernest Cline,12,Fiction
+288,Rush Revere and the Brave Pilgrims: Time-Travel Adventures with Exceptional Americans (1),Rush Limbaugh,12,Fiction
+289,Rush Revere and the First Patriots: Time-Travel Adventures With Exceptional Americans (2),Rush Limbaugh,12,Fiction
+290,Salt  Fat  Acid  Heat: Mastering the Elements of Good Cooking,Samin Nosrat,20,Non Fiction
+291,Salt  Fat  Acid  Heat: Mastering the Elements of Good Cooking,Samin Nosrat,20,Non Fiction
+292,Sarah's Key,Tatiana de Rosnay,10,Fiction
+293,School Zone - Big Preschool Workbook - Ages 4 and Up  Colors  Shapes  Numbers 1-10  Alphabet  Pre-Writing  Pre-Reading…,School Zone,6,Non Fiction
+294,School Zone - Big Preschool Workbook - Ages 4 and Up  Colors  Shapes  Numbers 1-10  Alphabet  Pre-Writing  Pre-Reading…,School Zone,6,Non Fiction
+295,Secret Garden: An Inky Treasure Hunt and Coloring Book (For Adults  mindfulness coloring),Johanna Basford,9,Non Fiction
+296,Sh*t My Dad Says,Justin Halpern,11,Non Fiction
+297,Ship of Fools: How a Selfish Ruling Class Is Bringing America to the Brink of Revolution,Tucker Carlson,16,Non Fiction
+298,Shred: The Revolutionary Diet: 6 Weeks 4 Inches 2 Sizes,Ian K. Smith M.D.,6,Non Fiction
+299,Sookie Stackhouse,Charlaine Harris,25,Fiction
+300,Soul Healing Miracles: Ancient and New Sacred Wisdom  Knowledge  and Practical Techniques for Healing the Spiritual…,Zhi Gang Sha,17,Non Fiction
+301,Steve Jobs,Walter Isaacson,20,Non Fiction
+302,Steve Jobs,Walter Isaacson,20,Non Fiction
+303,Strange Planet (Strange Planet Series),Nathan W. Pyle,6,Fiction
+304,StrengthsFinder 2.0,Gallup,17,Non Fiction
+305,StrengthsFinder 2.0,Gallup,17,Non Fiction
+306,StrengthsFinder 2.0,Gallup,17,Non Fiction
+307,StrengthsFinder 2.0,Gallup,17,Non Fiction
+308,StrengthsFinder 2.0,Gallup,17,Non Fiction
+309,StrengthsFinder 2.0,Gallup,17,Non Fiction
+310,StrengthsFinder 2.0,Gallup,17,Non Fiction
+311,StrengthsFinder 2.0,Gallup,17,Non Fiction
+312,StrengthsFinder 2.0,Gallup,17,Non Fiction
+313,Super Freakonomics: Global Cooling  Patriotic Prostitutes  and Why Suicide Bombers Should Buy Life Insurance,Steven D. Levitt,18,Non Fiction
+314,Switch: How to Change Things When Change Is Hard,Chip Heath,13,Non Fiction
+315,Sycamore Row (Jake Brigance),John Grisham,18,Fiction
+316,Teach Like a Champion: 49 Techniques that Put Students on the Path to College,Doug Lemov,20,Non Fiction
+317,Teach Like a Champion: 49 Techniques that Put Students on the Path to College,Doug Lemov,20,Non Fiction
+318,The 17 Day Diet: A Doctor's Plan Designed for Rapid Results,Mike Moreno,22,Non Fiction
+319,The 4 Hour Body: An Uncommon Guide to Rapid Fat Loss  Incredible Sex and Becoming Superhuman,Timothy Ferriss,21,Non Fiction
+320,The 5 Love Languages: The Secret to Love That Lasts,Gary Chapman,28,Non Fiction
+321,The 5 Love Languages: The Secret to Love That Lasts,Gary Chapman,28,Non Fiction
+322,The 5 Love Languages: The Secret to Love That Lasts,Gary Chapman,28,Non Fiction
+323,The 5 Love Languages: The Secret to Love That Lasts,Gary Chapman,28,Non Fiction
+324,The 5 Love Languages: The Secret to Love That Lasts,Gary Chapman,28,Non Fiction
+325,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,8,Non Fiction
+326,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,8,Non Fiction
+327,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,8,Non Fiction
+328,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,8,Non Fiction
+329,The 5 Love Languages: The Secret to Love that Lasts,Gary Chapman,8,Non Fiction
+330,The 5000 Year Leap,W. Cleon Skousen,12,Non Fiction
+331,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,24,Non Fiction
+332,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,24,Non Fiction
+333,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,24,Non Fiction
+334,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,24,Non Fiction
+335,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,16,Non Fiction
+336,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,16,Non Fiction
+337,The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change,Stephen R. Covey,16,Non Fiction
+338,The Alchemist,Paulo Coelho,39,Fiction
+339,The Amateur,Edward Klein,9,Non Fiction
+340,The Art of Racing in the Rain: A Novel,Garth Stein,10,Fiction
+341,The Art of Racing in the Rain: A Novel,Garth Stein,10,Fiction
+342,The Big Short: Inside the Doomsday Machine,Michael Lewis,17,Non Fiction
+343,The Blood of Olympus (The Heroes of Olympus (5)),Rick Riordan,11,Fiction
+344,The Blood Sugar Solution: The UltraHealthy Program for Losing Weight  Preventing Disease  and Feeling Great Now!,Mark Hyman M.D.,14,Non Fiction
+345,The Body Keeps the Score: Brain  Mind  and Body in the Healing of Trauma,Bessel van der Kolk M.D.,12,Non Fiction
+346,The Book of Basketball: The NBA According to The Sports Guy,Bill Simmons,53,Non Fiction
+347,The Book Thief,Markus Zusak,6,Fiction
+348,The Book Thief,Markus Zusak,6,Fiction
+349,The Book with No Pictures,B. J. Novak,8,Fiction
+350,The Book with No Pictures,B. J. Novak,8,Fiction
+351,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Daniel James Brown,12,Non Fiction
+352,The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics,Daniel James Brown,12,Non Fiction
+353,The Casual Vacancy,J.K. Rowling,12,Fiction
+354,The China Study: The Most Comprehensive Study of Nutrition Ever Conducted And the Startling Implications for Diet…,Thomas Campbell,21,Non Fiction
+355,The Complete Ketogenic Diet for Beginners: Your Essential Guide to Living the Keto Lifestyle,Amy Ramos,6,Non Fiction
+356,The Complete Ketogenic Diet for Beginners: Your Essential Guide to Living the Keto Lifestyle,Amy Ramos,6,Non Fiction
+357,The Confession: A Novel,John Grisham,13,Fiction
+358,The Constitution of the United States,Delegates of the Constitutional,0,Non Fiction
+359,The Daily Show with Jon Stewart Presents Earth (The Book): A Visitor's Guide to the Human Race,Jon Stewart,11,Non Fiction
+360,The Day the Crayons Quit,Drew Daywalt,9,Fiction
+361,The Day the Crayons Quit,Drew Daywalt,9,Fiction
+362,The Day the Crayons Quit,Drew Daywalt,9,Fiction
+363,The Dukan Diet: 2 Steps to Lose the Weight  2 Steps to Keep It Off Forever,Pierre Dukan,15,Non Fiction
+364,The Elegance of the Hedgehog,Muriel Barbery,11,Fiction
+365,The Fault in Our Stars,John Green,13,Fiction
+366,The Fault in Our Stars,John Green,13,Fiction
+367,The Fault in Our Stars,John Green,7,Fiction
+368,The Fault in Our Stars,John Green,13,Fiction
+369,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,6,Non Fiction
+370,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,6,Non Fiction
+371,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,6,Non Fiction
+372,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,6,Non Fiction
+373,The Five Dysfunctions of a Team: A Leadership Fable,Patrick Lencioni,6,Non Fiction
+374,The Five Love Languages: How to Express Heartfelt Commitment to Your Mate,Gary Chapman,9,Non Fiction
+375,The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Don Miguel Ruiz,6,Non Fiction
+376,The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Don Miguel Ruiz,6,Non Fiction
+377,The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Don Miguel Ruiz,6,Non Fiction
+378,The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Don Miguel Ruiz,6,Non Fiction
+379,The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Don Miguel Ruiz,6,Non Fiction
+380,The Four Agreements: A Practical Guide to Personal Freedom (A Toltec Wisdom Book),Don Miguel Ruiz,6,Non Fiction
+381,The Getaway,Jeff Kinney,0,Fiction
+382,The Girl on the Train,Paula Hawkins,18,Fiction
+383,The Girl on the Train,Paula Hawkins,7,Fiction
+384,The Girl Who Kicked the Hornet's Nest (Millennium Trilogy),Stieg Larsson,14,Fiction
+385,The Girl Who Kicked the Hornet's Nest (Millennium Trilogy),Stieg Larsson,14,Fiction
+386,The Girl Who Played with Fire (Millennium Series),Stieg Larsson,9,Fiction
+387,The Girl Who Played with Fire (Millennium),Stieg Larsson,16,Fiction
+388,The Girl with the Dragon Tattoo (Millennium Series),Stieg Larsson,2,Fiction
+389,The Girl with the Dragon Tattoo (Millennium Series),Stieg Larsson,2,Fiction
+390,The Going-To-Bed Book,Sandra Boynton,5,Fiction
+391,The Going-To-Bed Book,Sandra Boynton,5,Fiction
+392,The Goldfinch: A Novel (Pulitzer Prize for Fiction),Donna Tartt,20,Fiction
+393,The Goldfinch: A Novel (Pulitzer Prize for Fiction),Donna Tartt,20,Fiction
+394,The Great Gatsby,F. Scott Fitzgerald,7,Fiction
+395,The Great Gatsby,F. Scott Fitzgerald,7,Fiction
+396,The Great Gatsby,F. Scott Fitzgerald,7,Fiction
+397,The Guardians: A Novel,John Grisham,14,Fiction
+398,The Guernsey Literary and Potato Peel Pie Society,Mary Ann Shaffer,10,Fiction
+399,The Handmaid's Tale,Margaret Atwood,7,Fiction
+400,The Harbinger: The Ancient Mystery that Holds the Secret of America's Future,Jonathan Cahn,13,Fiction
+401,The Hate U Give,Angie Thomas,11,Fiction
+402,The Help,Kathryn Stockett,6,Fiction
+403,The Help,Kathryn Stockett,6,Fiction
+404,The Help,Kathryn Stockett,8,Fiction
+405,The Help,Kathryn Stockett,7,Fiction
+406,The House of Hades (Heroes of Olympus  Book 4),Rick Riordan,14,Fiction
+407,The Hunger Games,Suzanne Collins,14,Fiction
+408,The Hunger Games (Book 1),Suzanne Collins,8,Fiction
+409,The Hunger Games (Book 1),Suzanne Collins,8,Fiction
+410,The Hunger Games Trilogy Boxed Set (1),Suzanne Collins,30,Fiction
+411,The Hunger Games Trilogy Boxed Set (1),Suzanne Collins,30,Fiction
+412,The Immortal Life of Henrietta Lacks,Rebecca Skloot,13,Non Fiction
+413,The Immortal Life of Henrietta Lacks,Rebecca Skloot,9,Non Fiction
+414,The Immortal Life of Henrietta Lacks,Rebecca Skloot,9,Non Fiction
+415,The Instant Pot Electric Pressure Cooker Cookbook: Easy Recipes for Fast & Healthy Meals,Laurel Randolph,7,Non Fiction
+416,The Instant Pot Electric Pressure Cooker Cookbook: Easy Recipes for Fast & Healthy Meals,Laurel Randolph,7,Non Fiction
+417,The Last Lecture,Randy Pausch,9,Non Fiction
+418,The Last Olympian (Percy Jackson and the Olympians  Book 5),Rick Riordan,7,Fiction
+419,The Last Olympian (Percy Jackson and the Olympians  Book 5),Rick Riordan,7,Fiction
+420,The Legend of Zelda: Hyrule Historia,Patrick Thorpe,20,Fiction
+421,The Lego Ideas Book: Unlock Your Imagination,Daniel Lipkowitz,13,Non Fiction
+422,The Lego Ideas Book: Unlock Your Imagination,Daniel Lipkowitz,13,Non Fiction
+423,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Marie Kondō,11,Non Fiction
+424,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Marie Kondō,11,Non Fiction
+425,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Marie Kondō,11,Non Fiction
+426,The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing,Marie Kondō,11,Non Fiction
+427,The Litigators,John Grisham,18,Fiction
+428,The Lost Hero (Heroes of Olympus  Book 1),Rick Riordan,14,Fiction
+429,The Lost Symbol,Dan Brown,19,Fiction
+430,The Love Dare,Stephen Kendrick,13,Non Fiction
+431,The Magnolia Story,Chip Gaines,5,Non Fiction
+432,The Mark of Athena (Heroes of Olympus  Book 3),Rick Riordan,10,Fiction
+433,The Martian,Andy Weir,9,Fiction
+434,The Maze Runner (Book 1),James Dashner,8,Fiction
+435,The Meltdown (Diary of a Wimpy Kid Book 13),Jeff Kinney,8,Fiction
+436,The Mueller Report,The Washington Post,12,Non Fiction
+437,The Nightingale: A Novel,Kristin Hannah,11,Fiction
+438,The Nightingale: A Novel,Kristin Hannah,11,Fiction
+439,The Official SAT Study Guide,The College Board,40,Non Fiction
+440,The Official SAT Study Guide,The College Board,40,Non Fiction
+441,The Official SAT Study Guide,The College Board,40,Non Fiction
+442,The Official SAT Study Guide,The College Board,40,Non Fiction
+443,The Official SAT Study Guide,The College Board,40,Non Fiction
+444,The Official SAT Study Guide  2016 Edition (Official Study Guide for the New Sat),The College Board,36,Non Fiction
+445,The Paris Wife: A Novel,Paula McLain,16,Fiction
+446,The Pioneer Woman Cooks: A Year of Holidays: 140 Step-by-Step Recipes for Simple  Scrumptious Celebrations,Ree Drummond,17,Non Fiction
+447,The Pioneer Woman Cooks: Dinnertime - Comfort Classics  Freezer Food  16-minute Meals  and Other Delicious Ways to Solve…,Ree Drummond,14,Non Fiction
+448,The Pioneer Woman Cooks: Food from My Frontier,Ree Drummond,21,Non Fiction
+449,The Plant Paradox Cookbook: 100 Delicious Recipes to Help You Lose Weight  Heal Your Gut  and Live Lectin-Free,Dr. Steven R Gundry MD,18,Non Fiction
+450,"The Plant Paradox: The Hidden Dangers in ""Healthy"" Foods That Cause Disease and Weight Gain",Dr. Steven R Gundry MD,17,Non Fiction
+451,The Pout-Pout Fish,Deborah Diesen,5,Fiction
+452,The Pout-Pout Fish,Deborah Diesen,5,Fiction
+453,The Power of Habit: Why We Do What We Do in Life and Business,Charles Duhigg,21,Non Fiction
+454,The President Is Missing: A Novel,James Patterson,18,Fiction
+455,The Racketeer,John Grisham,18,Fiction
+456,The Red Pyramid (The Kane Chronicles  Book 1),Rick Riordan,12,Fiction
+457,The Road to Serfdom: Text and Documents--The Definitive Edition (The Collected Works of F. A. Hayek  Volume 2),F. A. Hayek,14,Non Fiction
+458,The Serpent's Shadow (The Kane Chronicles  Book 3),Rick Riordan,12,Fiction
+459,The Shack: Where Tragedy Confronts Eternity,William P. Young,8,Fiction
+460,The Shack: Where Tragedy Confronts Eternity,William P. Young,8,Fiction
+461,The Short Second Life of Bree Tanner: An Eclipse Novella (The Twilight Saga),Stephenie Meyer,0,Fiction
+462,The Silent Patient,Alex Michaelides,14,Fiction
+463,The Son of Neptune (Heroes of Olympus  Book 2),Rick Riordan,10,Fiction
+464,The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life,Mark Manson,15,Non Fiction
+465,The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life,Mark Manson,15,Non Fiction
+466,The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life,Mark Manson,15,Non Fiction
+467,The Sun and Her Flowers,Rupi Kaur,9,Non Fiction
+468,The Third Wheel (Diary of a Wimpy Kid  Book 7),Jeff Kinney,7,Fiction
+469,The Throne of Fire (The Kane Chronicles  Book 2),Rick Riordan,10,Fiction
+470,The Time Traveler's Wife,Audrey Niffenegger,6,Fiction
+471,The Tipping Point: How Little Things Can Make a Big Difference,Malcolm Gladwell,9,Non Fiction
+472,The Total Money Makeover: Classic Edition: A Proven Plan for Financial Fitness,Dave Ramsey,10,Non Fiction
+473,The Twilight Saga Collection,Stephenie Meyer,82,Fiction
+474,The Ugly Truth (Diary of a Wimpy Kid  Book 5),Jeff Kinney,12,Fiction
+475,The Unofficial Harry Potter Cookbook: From Cauldron Cakes to Knickerbocker Glory--More Than 150 Magical Recipes for…,Dinah Bucholz,10,Non Fiction
+476,The Very Hungry Caterpillar,Eric Carle,5,Fiction
+477,The Very Hungry Caterpillar,Eric Carle,5,Fiction
+478,The Very Hungry Caterpillar,Eric Carle,5,Fiction
+479,The Very Hungry Caterpillar,Eric Carle,5,Fiction
+480,The Very Hungry Caterpillar,Eric Carle,5,Fiction
+481,The Very Hungry Caterpillar,Eric Carle,5,Fiction
+482,The Very Hungry Caterpillar,Eric Carle,5,Fiction
+483,The Whole30: The 30-Day Guide to Total Health and Food Freedom,Melissa Hartwig Urban,16,Non Fiction
+484,The Whole30: The 30-Day Guide to Total Health and Food Freedom,Melissa Hartwig Urban,16,Non Fiction
+485,The Whole30: The 30-Day Guide to Total Health and Food Freedom,Melissa Hartwig Urban,16,Non Fiction
+486,The Wonderful Things You Will Be,Emily Winfield Martin,10,Fiction
+487,The Wonderful Things You Will Be,Emily Winfield Martin,10,Fiction
+488,The Wonderful Things You Will Be,Emily Winfield Martin,10,Fiction
+489,The Wonderful Things You Will Be,Emily Winfield Martin,10,Fiction
+490,The Wonky Donkey,Craig Smith,4,Fiction
+491,The Wonky Donkey,Craig Smith,4,Fiction
+492,The Wright Brothers,David McCullough,16,Non Fiction
+493,Things That Matter: Three Decades of Passions  Pastimes and Politics [Deckled Edge],Charles Krauthammer,15,Non Fiction
+494,Thinking  Fast and Slow,Daniel Kahneman,19,Non Fiction
+495,Thinking  Fast and Slow,Daniel Kahneman,19,Non Fiction
+496,Thirteen Reasons Why,Jay Asher,9,Fiction
+497,Thomas Jefferson: The Art of Power,Jon Meacham,23,Non Fiction
+498,Three Cups of Tea: One Man's Mission to Promote Peace - One School at a Time,Greg Mortenson,11,Non Fiction
+499,Three Cups of Tea: One Man's Mission to Promote Peace - One School at a Time,Greg Mortenson,11,Non Fiction
+500,Thug Kitchen: The Official Cookbook: Eat Like You Give a F*ck (Thug Kitchen Cookbooks),Thug Kitchen,23,Non Fiction
+501,Thug Kitchen: The Official Cookbook: Eat Like You Give a F*ck (Thug Kitchen Cookbooks),Thug Kitchen,23,Non Fiction
+502,Thug Kitchen: The Official Cookbook: Eat Like You Give a F*ck (Thug Kitchen Cookbooks),Thug Kitchen,23,Non Fiction
+503,Thug Kitchen: The Official Cookbook: Eat Like You Give a F*ck (Thug Kitchen Cookbooks),Thug Kitchen,23,Non Fiction
+504,Tina Fey: Bossypants,Tina Fey,12,Non Fiction
+505,To Kill a Mockingbird,Harper Lee,0,Fiction
+506,To Kill a Mockingbird,Harper Lee,0,Fiction
+507,To Kill a Mockingbird,Harper Lee,0,Fiction
+508,To Kill a Mockingbird,Harper Lee,0,Fiction
+509,To Kill a Mockingbird,Harper Lee,7,Fiction
+510,Tools of Titans: The Tactics  Routines  and Habits of Billionaires  Icons  and World-Class Performers,Timothy Ferriss,21,Non Fiction
+511,Towers of Midnight (Wheel of Time  Book Thirteen),Robert Jordan,21,Fiction
+512,True Compass: A Memoir,Edward M. Kennedy,15,Non Fiction
+513,Twilight (The Twilight Saga  Book 1),Stephenie Meyer,9,Fiction
+514,Ultimate Sticker Book: Frozen: More Than 60 Reusable Full-Color Stickers,DK,5,Fiction
+515,Unbroken: A World War II Story of Survival  Resilience  and Redemption,Laura Hillenbrand,16,Non Fiction
+516,Unbroken: A World War II Story of Survival  Resilience  and Redemption,Laura Hillenbrand,16,Non Fiction
+517,Unbroken: A World War II Story of Survival  Resilience  and Redemption,Laura Hillenbrand,16,Non Fiction
+518,Unbroken: A World War II Story of Survival  Resilience  and Redemption,Laura Hillenbrand,13,Non Fiction
+519,Unbroken: A World War II Story of Survival  Resilience  and Redemption,Laura Hillenbrand,16,Non Fiction
+520,Under the Dome: A Novel,Stephen King,20,Fiction
+521,Unfreedom of the Press,Mark R. Levin,11,Non Fiction
+522,Unicorn Coloring Book: For Kids Ages 4-8 (US Edition) (Silly Bear Coloring Books),Silly Bear,4,Non Fiction
+523,Uninvited: Living Loved When You Feel Less Than  Left Out  and Lonely,Lysa TerKeurst,9,Non Fiction
+524,Watchmen,Alan Moore,42,Fiction
+525,Water for Elephants: A Novel,Sara Gruen,12,Fiction
+526,What Happened,Hillary Rodham Clinton,18,Non Fiction
+527,What If?: Serious Scientific Answers to Absurd Hypothetical Questions,Randall Munroe,17,Non Fiction
+528,What Pet Should I Get? (Classic Seuss),Dr. Seuss,14,Fiction
+529,What Should Danny Do? (The Power to Choose Series),Adir Levy,13,Fiction
+530,What to Expect When You're Expecting,Heidi Murkoff,9,Non Fiction
+531,Wheat Belly: Lose the Wheat  Lose the Weight  and Find Your Path Back to Health,William Davis,6,Non Fiction
+532,Wheat Belly: Lose the Wheat  Lose the Weight  and Find Your Path Back to Health,William Davis,6,Non Fiction
+533,When Breath Becomes Air,Paul Kalanithi,14,Non Fiction
+534,Where the Crawdads Sing,Delia Owens,15,Fiction
+535,Where the Wild Things Are,Maurice Sendak,13,Fiction
+536,Whose Boat Is This Boat?: Comments That Don't Help in the Aftermath of a Hurricane,The Staff of The Late Show with,12,Non Fiction
+537,Wild: From Lost to Found on the Pacific Crest Trail,Cheryl Strayed,18,Non Fiction
+538,Winter of the World: Book Two of the Century Trilogy,Ken Follett,15,Fiction
+539,Women Food and God: An Unexpected Path to Almost Everything,Geneen Roth,11,Non Fiction
+540,Wonder,R. J. Palacio,9,Fiction
+541,Wonder,R. J. Palacio,9,Fiction
+542,Wonder,R. J. Palacio,9,Fiction
+543,Wonder,R. J. Palacio,9,Fiction
+544,Wonder,R. J. Palacio,9,Fiction
+545,Wrecking Ball (Diary of a Wimpy Kid Book 14),Jeff Kinney,8,Fiction
+546,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,Jen Sincero,8,Non Fiction
+547,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,Jen Sincero,8,Non Fiction
+548,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,Jen Sincero,8,Non Fiction
+549,You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life,Jen Sincero,8,Non Fiction
+550,Fundamentals of Wavelets,Goswami  Jaideva,22,tech
+551,Data Smart,Foreman  John,9,tech
+552,God Created the Integers,Hawking  Stephen,19,tech
+553,Superfreakonomics,Dubner  Stephen,10,science
+554,Orientalism,Said  Edward,50,nonfiction
+555,Nature of Statistical Learning Theory  The,Vapnik  Vladimir,16,tech
+556,Integration of the Indian States,Menon  V P,28,nonfiction
+557,Drunkard's Walk  The,Mlodinow  Leonard,20,science
+558,Image Processing & Mathematical Morphology,Shih  Frank,31,tech
+559,How to Think Like Sherlock Holmes,Konnikova  Maria,48,nonfiction
+560,Data Scientists at Work,Sebastian Gutierrez,31,tech
+561,Slaughterhouse Five,Vonnegut  Kurt,30,fiction
+562,Birth of a Theorem,Villani  Cedric,50,science
+563,Structure & Interpretation of Computer Programs,Sussman  Gerald,19,tech
+564,Age of Wrath  The,Eraly  Abraham,20,nonfiction
+565,Trial  The,Kafka  Frank,20,fiction
+566,Statistical Decision Theory',Pratt  John,43,tech
+567,Data Mining Handbook,Nisbet  Robert,35,tech
+568,New Machiavelli  The,Wells  H. G.,42,fiction
+569,Physics & Philosophy,Heisenberg  Werner,31,philosophy
+570,Making Software,Oram  Andy,11,tech
+571,Analysis  Vol I,Tao  Terence,12,tech
+572,Machine Learning for Hackers,Conway  Drew,5,tech
+573,Signal and the Noise  The,Silver  Nate,6,tech
+574,Python for Data Analysis,McKinney  Wes,42,tech
+575,Introduction to Algorithms,Cormen  Thomas,22,tech
+576,Beautiful and the Damned  The,Deb  Siddhartha,41,nonfiction
+577,Outsider  The,Camus  Albert,43,fiction
+578,Complete Sherlock Holmes  The - Vol I,Doyle  Arthur Conan,42,fiction
+579,Complete Sherlock Holmes  The - Vol II,Doyle  Arthur Conan,23,fiction
+580,Wealth of Nations  The,Smith  Adam,45,science
+581,Pillars of the Earth  The,Follett  Ken,40,fiction
+582,Mein Kampf,Hitler  Adolf,23,nonfiction
+583,Tao of Physics  The,Capra  Fritjof,47,science
+584,Surely You're Joking Mr Feynman,Feynman  Richard,38,science
+585,Farewell to Arms  A,Hemingway  Ernest,16,fiction
+586,Veteran  The,Forsyth  Frederick,31,fiction
+587,False Impressions,Archer  Jeffery,26,fiction
+588,Last Lecture  The,Pausch  Randy,39,nonfiction
+589,Return of the Primitive,Rand  Ayn,25,philosophy
+590,Jurassic Park,Crichton  Michael,33,fiction
+591,Russian Journal  A,Steinbeck  John,34,nonfiction
+592,Tales of Mystery and Imagination,Poe  Edgar Allen,50,fiction
+593,Freakonomics,Dubner  Stephen,5,science
+594,Hidden Connections  The,Capra  Fritjof,35,science
+595,Story of Philosophy  The,Durant  Will,38,philosophy
+596,Asami Asami,Deshpande  P L,41,fiction
+597,Journal of a Novel,Steinbeck  John,48,fiction
+598,Once There Was a War,Steinbeck  John,10,nonfiction
+599,Moon is Down  The,Steinbeck  John,23,fiction
+600,Brethren  The,Grisham  John,36,fiction
+601,In a Free State,Naipaul  V. S.,43,fiction
+602,Catch 22,Heller  Joseph,10,fiction
+603,Complete Mastermind  The,BBC,10,nonfiction
+604,Dylan on Dylan,Dylan  Bob,32,nonfiction
+605,Soft Computing & Intelligent Systems,Gupta  Madan,22,tech
+606,Textbook of Economic Theory,Stonier  Alfred,10,tech
+607,Econometric Analysis,Greene  W. H.,28,tech
+608,Learning OpenCV,Bradsky  Gary,22,tech
+609,Data Structures Using C & C++,Tanenbaum  Andrew,32,tech
+610,Computer Vision  A Modern Approach,Forsyth  David,5,tech
+611,Principles of Communication Systems,Taub  Schilling,10,tech
+612,Let Us C,Kanetkar  Yashwant,24,tech
+613,Amulet of Samarkand  The,Stroud  Jonathan,18,fiction
+614,Crime and Punishment,Dostoevsky  Fyodor,46,fiction
+615,Angels & Demons,Brown  Dan,27,fiction
+616,Argumentative Indian  The,Sen  Amartya,32,nonfiction
+617,Sea of Poppies,Ghosh  Amitav,40,fiction
+618,Idea of Justice  The,Sen  Amartya,10,philosophy
+619,Raisin in the Sun  A,Hansberry  Lorraine,11,fiction
+620,All the President's Men,Woodward  Bob,27,nonfiction
+621,Prisoner of Birth  A,Archer  Jeffery,13,fiction
+622,Scoop!,Nayar  Kuldip,46,nonfiction
+623,Ahe Manohar Tari,Deshpande  Sunita,34,nonfiction
+624,Last Mughal  The,Dalrymple  William,39,nonfiction
+625,Social Choice & Welfare  Vol 39 No. 1,Various,32,tech
+626,Radiowaril Bhashane & Shrutika,Deshpande  P L,12,nonfiction
+627,Gun Gayin Awadi,Deshpande  P L,21,nonfiction
+628,Aghal Paghal,Deshpande  P L,27,nonfiction
+629,Maqta-e-Ghalib,Garg  Sanjay,27,nonfiction
+631,Manasa,Kale  V P,48,nonfiction
+632,India from Midnight to Milennium,Tharoor  Shashi,41,nonfiction
+634,Great Indian Novel  The,Tharoor  Shashi,45,fiction
+635,O Jerusalem!,Lapierre  Dominique,50,nonfiction
+636,City of Joy  The,Lapierre  Dominique,21,fiction
+637,Freedom at Midnight,Lapierre  Dominique,9,nonfiction
+638,Winter of Our Discontent  The,Steinbeck  John,27,fiction
+639,On Education,Russell  Bertrand,14,philosophy
+640,Free Will,Harris  Sam,10,nonfiction
+641,Bookless in Baghdad,Tharoor  Shashi,49,nonfiction
+642,Case of the Lame Canary  The,Gardner  Earle Stanley,19,fiction
+643,Theory of Everything  The,Hawking  Stephen,26,science
+644,New Markets & Other Essays,Drucker  Peter,17,science
+645,Electric Universe,Bodanis  David,17,science
+646,Hunchback of Notre Dame  The,Hugo  Victor,28,fiction
+647,Burning Bright,Steinbeck  John,35,fiction
+648,Age of Discontuinity  The,Drucker  Peter,43,nonfiction
+649,Doctor in the Nude,Gordon  Richard,50,fiction
+650,Down and Out in Paris & London,Orwell  George,17,nonfiction
+651,Identity & Violence,Sen  Amartya,41,philosophy
+652,Beyond the Three Seas,Dalrymple  William,45,nonfiction
+654,Talking Straight,Iacoca  Lee,32,nonfiction
+655,Maugham's Collected Short Stories  Vol 3,Maugham  William S,46,fiction
+656,Phantom of Manhattan  The,Forsyth  Frederick,47,fiction
+657,Ashenden of The British Agent,Maugham  William S,5,fiction
+658,Zen & The Art of Motorcycle Maintenance,Pirsig  Robert,43,philosophy
+659,Great War for Civilization  The,Fisk  Robert,27,nonfiction
+660,We the Living,Rand  Ayn,42,fiction
+661,Artist and the Mathematician  The,Aczel  Amir,5,science
+662,History of Western Philosophy,Russell  Bertrand,48,philosophy
+664,Rationality & Freedom,Sen  Amartya,18,science
+665,Clash of Civilizations and Remaking of the World Order,Huntington  Samuel,36,nonfiction
+666,Uncommon Wisdom,Capra  Fritjof,40,nonfiction
+667,One,Bach  Richard,16,nonfiction
+669,To Sir With Love,Braithwaite,13,fiction
+670,Half A Life,Naipaul  V S,15,fiction
+671,Discovery of India  The,Nehru  Jawaharlal,26,nonfiction
+672,Apulki,Deshpande  P L,37,nonfiction
+673,Unpopular Essays,Russell  Bertrand,45,philosophy
+674,Deceiver  The,Forsyth  Frederick,50,fiction
+675,Veil: Secret Wars of the CIA,Woodward  Bob,46,nonfiction
+676,Char Shabda,Deshpande  P L,46,nonfiction
+677,Rosy is My Relative,Durrell  Gerald,18,fiction
+678,Moon and Sixpence  The,Maugham  William S,28,fiction
+680,Short History of the World  A,Wells  H G,41,nonfiction
+681,Trembling of a Leaf  The,Maugham  William S,10,fiction
+682,Doctor on the Brain,Gordon  Richard,49,fiction
+683,Simpsons & Their Mathematical Secrets,Singh  Simon,19,science
+684,Pattern Classification,Duda  Hart,43,tech
+685,From Beirut to Jerusalem,Friedman  Thomas,50,nonfiction
+686,Code Book  The,Singh  Simon,9,science
+687,Age of the Warrior  The,Fisk  Robert,8,nonfiction
+693,Numbers Behind Numb3rs  The,Devlin  Keith,15,science
+701,Life in Letters  A,Steinbeck  John,45,nonfiction
+702,Information  The,Gleick  James,41,science
+704,Elements of Information Theory,Thomas  Joy,43,tech
+705,Power Electronics - Rashid,Rashid  Muhammad,22,tech
+706,Power Electronics - Mohan,Mohan  Ned,21,tech
+707,Neural Networks,Haykin  Simon,18,tech
+708,Grapes of Wrath  The,Steinbeck  John,29,fiction
+709,Vyakti ani Valli,Deshpande  P L,7,nonfiction
+710,Statistical Learning Theory,Vapnik  Vladimir,44,tech
+711,Empire of the Mughal - The Tainted Throne,Rutherford  Alex,30,nonfiction
+712,Empire of the Mughal - Brothers at War,Rutherford  Alex,27,nonfiction
+713,Empire of the Mughal - Ruler of the World,Rutherford  Alex,47,nonfiction
+714,Empire of the Mughal - The Serpent's Tooth,Rutherford  Alex,16,nonfiction
+715,Empire of the Mughal - Raiders from the North,Rutherford  Alex,26,nonfiction
+716,Mossad,Baz-Zohar  Michael,17,nonfiction
+717,Jim Corbett Omnibus,Corbett  Jim,19,nonfiction
+718,20000 Leagues Under the Sea,Verne  Jules,37,fiction
+719,Batatyachi Chal,Deshpande P L,13,fiction
+720,Hafasavnuk,Deshpande P L,33,fiction
+721,Urlasurla,Deshpande P L,50,fiction
+722,Pointers in C,Kanetkar  Yashwant,48,tech
+723,Cathedral and the Bazaar  The,Raymond  Eric,36,tech
+724,Design with OpAmps,Franco  Sergio,31,tech
+725,Think Complexity,Downey  Allen,29,tech
+726,Devil's Advocate  The,West  Morris,10,fiction
+727,Ayn Rand Answers,Rand  Ayn,12,philosophy
+728,Philosophy: Who Needs It,Rand  Ayn,21,philosophy
+730,Data Analysis with Open Source Tools,Janert  Phillip,7,tech
+731,Broca's Brain,Sagan  Carl,18,science
+732,Men of Mathematics,Bell  E T,16,science
+733,Oxford book of Modern Science Writing,Dawkins  Richard,45,science
+734,Justice  Judiciary and Democracy,Ranjan  Sudhanshu,13,nonfiction
+735,Arthashastra  The,Kautiyla,29,philosophy
+736,We the People,Palkhivala,24,philosophy
+737,We the Nation,Palkhivala,47,philosophy
+738,Courtroom Genius  The,Sorabjee,31,nonfiction
+739,Dongri to Dubai,Zaidi  Hussain,45,nonfiction
+740,History of England  Foundation,Ackroyd  Peter,15,nonfiction
+741,City of Djinns,Dalrymple  William,6,nonfiction
+742,India's Legal System,Nariman,21,nonfiction
+743,More Tears to Cry,Sassoon  Jean,20,fiction
+744,Ropemaker  The,Dickinson  Peter,18,fiction
+745,Angels & Demons,Brown  Dan,41,fiction
+748,Prince  The,Machiavelli,47,fiction
+749,Eyeless in Gaza,Huxley  Aldous,37,fiction
+750,Tales of Beedle the Bard,Rowling  J K,6,fiction
+751,Girl with the Dragon Tattoo,Larsson  Steig,32,fiction
+752,Girl who kicked the Hornet's Nest,Larsson  Steig,39,fiction
+753,Girl who played with Fire,Larsson  Steig,9,fiction
+756,Structure and Randomness,Tao  Terence,44,science
+757,Image Processing with MATLAB,Eddins  Steve,40,tech
+758,Animal Farm,Orwell  George,13,fiction
+759,Idiot  The,Dostoevsky  Fyodor,26,fiction
+760,Christmas Carol  A,Dickens  Charles,19,fiction
